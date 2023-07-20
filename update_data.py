@@ -17,8 +17,8 @@ def delete_data_from_db():
     db = get_database_connection()
     contracts = db[COLLECTION]
     
-    res = contracts.delete_many({"author": "Smith, Jackson"}, {"$set": {"due_date": "2020-10-31"}})
-    print(res.modified_count, "documents updated.")
+    res = contracts.delete_many({"author": "Smith, Jackson", "pages": "400"})
+    print (res.deleted_count, "documents deleted.")
 
 def update_data():
     """ Update the selected data.
@@ -28,6 +28,12 @@ def update_data():
     """
     sql_query = ''' UPDATE authors SET due_date='2020-10-31' WHERE author='Smith, Jackson'; '''
 
+    db = get_database_connection()
+
+    contracts = db[COLLECTION]
+
+    res = contracts.update_many({"author": "Smith, Jackson"}, {"$set": {"due_date": "2020-10-31"}})
+    print (res.modified_count, "documents updated.")
 
 def test_delete_data():
     sql_query = ''' SELECT count(author) FROM authors WHERE author='Smith, Jackson'; '''

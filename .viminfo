@@ -12,7 +12,7 @@
 ~h
 # Command Line History (newest to oldest):
 :wq
-|2,0,1689853564,,"wq"
+|2,0,1689855166,,"wq"
 :WQ
 |2,0,1689852947,,"WQ"
 
@@ -27,34 +27,42 @@
 # Registers:
 
 # File marks:
-'0  21  49  ~/update_data.py
-|4,48,21,49,1689853564,"~/update_data.py"
-'1  20  6  ~/update_data.py
-|4,49,20,6,1689853435,"~/update_data.py"
-'2  20  6  ~/update_data.py
-|4,50,20,6,1689853435,"~/update_data.py"
-'3  18  29  ~/update_data.py
-|4,51,18,29,1689853382,"~/update_data.py"
-'4  18  29  ~/update_data.py
-|4,52,18,29,1689853382,"~/update_data.py"
-'5  18  29  ~/update_data.py
-|4,53,18,29,1689853382,"~/update_data.py"
-'6  18  29  ~/update_data.py
-|4,54,18,29,1689853382,"~/update_data.py"
-'7  18  49  ~/update_data.py
-|4,55,18,49,1689853301,"~/update_data.py"
-'8  21  49  ~/update_data.py
-|4,56,21,49,1689853301,"~/update_data.py"
-'9  18  49  ~/update_data.py
-|4,57,18,49,1689853301,"~/update_data.py"
+'0  36  51  ~/update_data.py
+|4,48,36,51,1689855166,"~/update_data.py"
+'1  21  49  ~/update_data.py
+|4,49,21,49,1689853564,"~/update_data.py"
+'2  21  49  ~/update_data.py
+|4,50,21,49,1689853564,"~/update_data.py"
+'3  20  6  ~/update_data.py
+|4,51,20,6,1689853435,"~/update_data.py"
+'4  20  6  ~/update_data.py
+|4,52,20,6,1689853435,"~/update_data.py"
+'5  20  6  ~/update_data.py
+|4,53,20,6,1689853435,"~/update_data.py"
+'6  20  6  ~/update_data.py
+|4,54,20,6,1689853435,"~/update_data.py"
+'7  18  29  ~/update_data.py
+|4,55,18,29,1689853382,"~/update_data.py"
+'8  18  29  ~/update_data.py
+|4,56,18,29,1689853382,"~/update_data.py"
+'9  18  29  ~/update_data.py
+|4,57,18,29,1689853382,"~/update_data.py"
 
 # Jumplist (newest first):
+-'  36  51  ~/update_data.py
+|4,39,36,51,1689855166,"~/update_data.py"
+-'  21  49  ~/update_data.py
+|4,39,21,49,1689855031,"~/update_data.py"
 -'  21  49  ~/update_data.py
 |4,39,21,49,1689853564,"~/update_data.py"
 -'  20  6  ~/update_data.py
 |4,39,20,6,1689853487,"~/update_data.py"
 -'  20  6  ~/update_data.py
+|4,39,20,6,1689853487,"~/update_data.py"
+-'  20  6  ~/update_data.py
 |4,39,20,6,1689853435,"~/update_data.py"
+-'  18  29  ~/update_data.py
+|4,39,18,29,1689853405,"~/update_data.py"
 -'  18  29  ~/update_data.py
 |4,39,18,29,1689853405,"~/update_data.py"
 -'  18  29  ~/update_data.py
@@ -75,6 +83,8 @@
 |4,39,1,0,1689853213,"~/update_data.py"
 -'  1  0  ~/update_data.py
 |4,39,1,0,1689853213,"~/update_data.py"
+-'  1  0  ~/update_data.py
+|4,39,1,0,1689853213,"~/update_data.py"
 -'  17  17  ~/read_data.py
 |4,39,17,17,1689853190,"~/read_data.py"
 -'  17  17  ~/read_data.py
@@ -107,6 +117,70 @@
 |4,39,17,17,1689853190,"~/read_data.py"
 -'  17  17  ~/read_data.py
 |4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  17  17  ~/read_data.py
+|4,39,17,17,1689853190,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
+-'  1  0  ~/read_data.py
+|4,39,1,0,1689853076,"~/read_data.py"
 -'  1  0  ~/read_data.py
 |4,39,1,0,1689853076,"~/read_data.py"
 -'  1  0  ~/read_data.py
@@ -175,94 +249,23 @@
 |4,39,30,16,1689853056,"~/populate_data.py"
 -'  30  16  ~/populate_data.py
 |4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  30  16  ~/populate_data.py
-|4,39,30,16,1689853056,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
--'  1  0  ~/populate_data.py
-|4,39,1,0,1689852963,"~/populate_data.py"
 
 # History of marks within files (newest to oldest):
 
 > ~/update_data.py
-	*	1689853563	0
-	"	21	49
-	^	21	50
-	.	21	49
+	*	1689855165	0
+	"	36	51
+	^	36	52
+	.	36	51
 	+	20	76
 	+	21	49
 	+	19	3
 	+	18	29
 	+	20	98
 	+	21	49
+	+	20	76
+	+	21	50
+	+	36	51
 
 > ~/read_data.py
 	*	1689853189	0
